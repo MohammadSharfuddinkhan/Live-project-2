@@ -2,7 +2,7 @@
 
 ## Simple landing page website.
 
-## See live [Live-Project-1](#)
+## See live [Live-Project-1](https://live-project-2n.netlify.app)
 
 ![img](Live-project-2.png)
 
